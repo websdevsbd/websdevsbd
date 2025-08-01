@@ -29,7 +29,7 @@ I bring a **code-meets-creative** approach to every project.
 - 📲 Fully responsive, mobile-first, core web vitals ready
 
  🧠 UI/UX & Tools
-- 🧾 Figma o Code | Prototyping | Wireframing  
+- 🧾 Figma to Code | Prototyping | Wireframing  
 - ☁️ Git, GitHub, Bitbucket  
 - 🔧 BlogVault, Cloudflare, UpdraftPlus  
 - 📈 Technical SEO, site audits, optimization tools  
