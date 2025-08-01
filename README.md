@@ -66,7 +66,7 @@ I bring a **code-meets-creative** approach to every project.
  🌐 Let's Connect
 
 🎯 [Fiverr](https://fiverr.com/dipmagura) – Book my freelance services  
-💻 [Upwork](https://www.upwork.com/freelancers/~dipmagura) – Hire me for global projects 
+💻 [Upwork](https://www.upwork.com/freelancers/~dipmagura) – Hire me for global projects
 🔗 [Portfolio Website](https://lighttemplate.com/dipmagura/) – My full project gallery & services  
 💼 [LinkedIn](https://linkedin.com/in/dipmagura) – Let’s network & collaborate  
 📸 [Instagram](https://instagram.com/dipmagura) – Behind-the-scenes of my creative process  
